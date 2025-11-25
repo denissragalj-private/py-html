@@ -1,0 +1,10 @@
+h1 {
+    padding: 5em 2em;
+    color: blueviolet;
+}
+
+p {
+    color: blue;
+    border: 2px solid red;
+    padding: 0.5em;
+}
